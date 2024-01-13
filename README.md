@@ -1,7 +1,6 @@
-# flutter_application_
+# TODO_APP
 
-A new Flutter project.
-
+This app is fully working on the basisi of API integration.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
