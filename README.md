@@ -1,6 +1,6 @@
 # TODO_APP
 
-This app is fully working on the basisi of API integration.
+This app is fully working on  API integration.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
